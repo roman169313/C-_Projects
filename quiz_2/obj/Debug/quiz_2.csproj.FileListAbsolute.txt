@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\bin\Debug\quiz_2.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\bin\Debug\quiz_2.exe
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\bin\Debug\quiz_2.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.frmQuiz_2.resources
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.exe
+C:\Users\Roman Ahmad\Desktop\project c#\quiz_2\obj\Debug\quiz_2.pdb

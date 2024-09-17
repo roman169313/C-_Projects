@@ -1,0 +1,11 @@
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.csproj.AssemblyReference.cache
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.csproj.SuggestedBindingRedirects.cache
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.Form1.resources
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.Properties.Resources.resources
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.csproj.GenerateResource.cache
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.csproj.CoreCompileInputs.cache
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\bin\Debug\LibraryBookIssue.exe.config
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\bin\Debug\LibraryBookIssue.exe
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\bin\Debug\LibraryBookIssue.pdb
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.exe
+F:\office_ALLLL\project c#\LibraryBookIssue\LibraryBookIssue\obj\Debug\LibraryBookIssue.pdb

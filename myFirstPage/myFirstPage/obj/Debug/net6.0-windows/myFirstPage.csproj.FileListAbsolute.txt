@@ -1,0 +1,17 @@
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\bin\Debug\net6.0-windows\myFirstPage.exe
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\bin\Debug\net6.0-windows\myFirstPage.deps.json
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\bin\Debug\net6.0-windows\myFirstPage.runtimeconfig.json
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\bin\Debug\net6.0-windows\myFirstPage.dll
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\bin\Debug\net6.0-windows\myFirstPage.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.frmHelloWorld.resources
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.AssemblyInfoInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.AssemblyInfo.cs
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.dll
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\refint\myFirstPage.dll
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\myFirstPage.genruntimeconfig.cache
+C:\Users\Roman Ahmad\Desktop\project c#\myFirstPage\myFirstPage\obj\Debug\net6.0-windows\ref\myFirstPage.dll

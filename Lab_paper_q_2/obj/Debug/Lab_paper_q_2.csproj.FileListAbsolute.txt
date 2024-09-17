@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.Form1.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\bin\Debug\Lab_paper_q_2.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\bin\Debug\Lab_paper_q_2.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\bin\Debug\Lab_paper_q_2.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Lab_paper_q_2\obj\Debug\Lab_paper_q_2.pdb

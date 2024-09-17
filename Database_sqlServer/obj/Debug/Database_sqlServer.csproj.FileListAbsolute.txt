@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\bin\Debug\Database_sqlServer.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\bin\Debug\Database_sqlServer.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\bin\Debug\Database_sqlServer.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.Form1.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Database_sqlServer\obj\Debug\Database_sqlServer.pdb

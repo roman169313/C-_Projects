@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\bin\Debug\newProject.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\bin\Debug\newProject.exe
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\bin\Debug\newProject.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.frmCalculator.resources
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.exe
+C:\Users\Roman Ahmad\Desktop\project c#\newProject\obj\Debug\newProject.pdb

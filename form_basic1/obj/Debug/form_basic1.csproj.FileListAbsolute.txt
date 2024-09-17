@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\bin\Debug\form_basic1.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\bin\Debug\form_basic1.exe
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\bin\Debug\form_basic1.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.frmwindow.resources
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.exe
+C:\Users\Roman Ahmad\Desktop\project c#\form_basic1\obj\Debug\form_basic1.pdb

@@ -1,0 +1,9 @@
+C:\BSCS4B\Shopping\Shopping\bin\Debug\Shopping.exe.config
+C:\BSCS4B\Shopping\Shopping\bin\Debug\Shopping.exe
+C:\BSCS4B\Shopping\Shopping\bin\Debug\Shopping.pdb
+C:\BSCS4B\Shopping\Shopping\obj\Debug\Shopping.csprojResolveAssemblyReference.cache
+C:\BSCS4B\Shopping\Shopping\obj\Debug\Shopping.frmShopping.resources
+C:\BSCS4B\Shopping\Shopping\obj\Debug\Shopping.Properties.Resources.resources
+C:\BSCS4B\Shopping\Shopping\obj\Debug\Shopping.csproj.GenerateResource.Cache
+C:\BSCS4B\Shopping\Shopping\obj\Debug\Shopping.exe
+C:\BSCS4B\Shopping\Shopping\obj\Debug\Shopping.pdb

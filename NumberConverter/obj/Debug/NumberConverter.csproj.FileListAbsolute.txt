@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\bin\Debug\NumberConverter.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\bin\Debug\NumberConverter.exe
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\bin\Debug\NumberConverter.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.Form1.resources
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.exe
+C:\Users\Roman Ahmad\Desktop\project c#\NumberConverter\obj\Debug\NumberConverter.pdb

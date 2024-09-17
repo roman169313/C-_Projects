@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\bin\Debug\calculatorAssignment.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\bin\Debug\calculatorAssignment.exe
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\bin\Debug\calculatorAssignment.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.Form1.resources
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.exe
+C:\Users\Roman Ahmad\Desktop\project c#\calculatorAssignment\obj\Debug\calculatorAssignment.pdb

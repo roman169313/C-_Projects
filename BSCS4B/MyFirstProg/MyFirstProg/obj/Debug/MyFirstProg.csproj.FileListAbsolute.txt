@@ -1,0 +1,9 @@
+C:\BSCS4B\MyFirstProg\MyFirstProg\bin\Debug\MyFirstProg.exe.config
+C:\BSCS4B\MyFirstProg\MyFirstProg\bin\Debug\MyFirstProg.exe
+C:\BSCS4B\MyFirstProg\MyFirstProg\bin\Debug\MyFirstProg.pdb
+C:\BSCS4B\MyFirstProg\MyFirstProg\obj\Debug\MyFirstProg.csprojResolveAssemblyReference.cache
+C:\BSCS4B\MyFirstProg\MyFirstProg\obj\Debug\MyFirstProg.frmHelloWorld.resources
+C:\BSCS4B\MyFirstProg\MyFirstProg\obj\Debug\MyFirstProg.Properties.Resources.resources
+C:\BSCS4B\MyFirstProg\MyFirstProg\obj\Debug\MyFirstProg.csproj.GenerateResource.Cache
+C:\BSCS4B\MyFirstProg\MyFirstProg\obj\Debug\MyFirstProg.exe
+C:\BSCS4B\MyFirstProg\MyFirstProg\obj\Debug\MyFirstProg.pdb

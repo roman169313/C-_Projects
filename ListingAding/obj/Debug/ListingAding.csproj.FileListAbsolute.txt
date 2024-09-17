@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\bin\Debug\ListingAding.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\bin\Debug\ListingAding.exe
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\bin\Debug\ListingAding.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.Form1.resources
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.exe
+C:\Users\Roman Ahmad\Desktop\project c#\ListingAding\obj\Debug\ListingAding.pdb

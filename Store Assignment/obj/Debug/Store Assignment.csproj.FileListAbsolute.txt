@@ -1,0 +1,11 @@
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\bin\Debug\Store Assignment.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\bin\Debug\Store Assignment.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\bin\Debug\Store Assignment.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store Assignment.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store_Assignment.Form1.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store_Assignment.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store Assignment.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store Assignment.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Store Assignment\obj\Debug\Store Assignment.pdb

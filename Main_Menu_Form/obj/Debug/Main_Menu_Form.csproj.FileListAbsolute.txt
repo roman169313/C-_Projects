@@ -1,0 +1,45 @@
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.exe.config
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.AssemblyReference.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmMain.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.Properties.Resources.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.GenerateResource.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.CoreCompileInputs.cache
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.exe
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.pdb
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmAddNewCustomer.resources
+C:\Users\Roman Ahmad\Desktop\project c#\Main_Menu_Form\obj\Debug\loginForm.frmLogin.resources
+E:\office_ALLLL\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.exe.config
+E:\office_ALLLL\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.exe
+E:\office_ALLLL\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.pdb
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.AssemblyReference.cache
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.SuggestedBindingRedirects.cache
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmAddNewCustomer.resources
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\loginForm.frmLogin.resources
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmMain.resources
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.Properties.Resources.resources
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.GenerateResource.cache
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.CoreCompileInputs.cache
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.exe
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.pdb
+E:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmUpdateCustomer.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.exe.config
+F:\office_ALLLL\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.exe
+F:\office_ALLLL\project c#\Main_Menu_Form\bin\Debug\Main_Menu_Form.pdb
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.AssemblyReference.cache
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.SuggestedBindingRedirects.cache
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmAddNewCustomer.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\loginForm.frmLogin.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmMain.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmUpdateCustomer.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.Properties.Resources.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.GenerateResource.cache
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.csproj.CoreCompileInputs.cache
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.exe
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.pdb
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.AddProduct.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmAddCategory.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmUpdateCategory.resources
+F:\office_ALLLL\project c#\Main_Menu_Form\obj\Debug\Main_Menu_Form.frmUpdateProduct.resources
